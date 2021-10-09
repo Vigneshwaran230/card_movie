@@ -12,9 +12,7 @@ export default function App() {
     </div>
   );
 }
-
-
-
+//
 function Users(){
   const namess = [
     {
